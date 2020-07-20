@@ -1,4 +1,5 @@
 ## Hello! 👋
+Mainly working on private projects for now. Maybe some day they will be public.
 
 <!--
 **digitaldisarray/digitaldisarray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
